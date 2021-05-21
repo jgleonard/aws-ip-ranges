@@ -14,3 +14,9 @@ This repository demonstrates how to use Github Flat Data actions to pull AWS IP 
 
 - do something useful with the data
 
+
+## Reference :
+
+- https://octo.github.com/projects/flat-data
+
+- https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html
