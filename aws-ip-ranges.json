@@ -33193,6 +33193,12 @@
       "network_border_group": "ca-central-1"
     },
     {
+      "ip_prefix": "3.99.196.0/22",
+      "region": "ca-central-1",
+      "service": "API_GATEWAY",
+      "network_border_group": "ca-central-1"
+    },
+    {
       "ip_prefix": "35.182.14.208/29",
       "region": "ca-central-1",
       "service": "ROUTE53_RESOLVER",
@@ -34768,6 +34774,12 @@
       "ip_prefix": "13.37.1.64/26",
       "region": "eu-west-3",
       "service": "AMAZON",
+      "network_border_group": "eu-west-3"
+    },
+    {
+      "ip_prefix": "13.38.132.0/22",
+      "region": "eu-west-3",
+      "service": "API_GATEWAY",
       "network_border_group": "eu-west-3"
     },
     {
