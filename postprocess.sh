@@ -9,5 +9,5 @@ set -o pipefail
 sudo apt-get install jq -y
 
 # Remove token and creation date as they aren't loadable in flatgithub.com
-jq 'del(.syncToken) | del(.createDate)' $1 > processed-$1
+jq 'del(.syncToken,.createDate)' $1 > processed-$1
 mv processed-$1 $1
