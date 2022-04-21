@@ -2,7 +2,7 @@
 
 This repository demonstrates how to use Github Flat Data actions to pull AWS IP ranges.
 
-![Flat](https://img.shields.io/badge/Flat-v3-f39f37)  ![Deno](https://img.shields.io/badge/Deno-v2-f39f37)  ![Build](https://github.com/jgleonard/aws-ip-ranges/actions/workflows/flat.yml/badge.svg)
+![Flat](https://img.shields.io/badge/Flat-v3-f39f37)  ![Deno](https://img.shields.io/badge/Deno-v1-f39f37)  ![Build](https://github.com/jgleonard/aws-ip-ranges/actions/workflows/flat.yml/badge.svg)
 
 ## Execution :
 
