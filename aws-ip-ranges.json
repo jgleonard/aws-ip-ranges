@@ -12463,12 +12463,6 @@
       "network_border_group": "ap-southeast-1"
     },
     {
-      "ip_prefix": "13.34.80.32/27",
-      "region": "us-east-1",
-      "service": "AMAZON",
-      "network_border_group": "us-east-1"
-    },
-    {
       "ip_prefix": "13.244.0.0/15",
       "region": "af-south-1",
       "service": "AMAZON",
@@ -13793,6 +13787,12 @@
       "region": "us-west-1",
       "service": "AMAZON",
       "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "142.4.160.208/29",
+      "region": "ap-northeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-northeast-1-tpe-1"
     },
     {
       "ip_prefix": "150.222.226.0/24",
@@ -31189,6 +31189,12 @@
       "network_border_group": "us-west-1"
     },
     {
+      "ip_prefix": "142.4.160.208/29",
+      "region": "ap-northeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-northeast-1-tpe-1"
+    },
+    {
       "ip_prefix": "18.182.0.0/16",
       "region": "ap-northeast-1",
       "service": "EC2",
@@ -38650,6 +38656,12 @@
       "ip_prefix": "108.137.114.0/28",
       "region": "ap-southeast-3",
       "service": "CODEBUILD",
+      "network_border_group": "ap-southeast-3"
+    },
+    {
+      "ip_prefix": "108.137.114.64/26",
+      "region": "ap-southeast-3",
+      "service": "DYNAMODB",
       "network_border_group": "ap-southeast-3"
     },
     {
