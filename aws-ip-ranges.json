@@ -14197,6 +14197,12 @@
       "network_border_group": "ap-southeast-2-akl-1"
     },
     {
+      "ip_prefix": "96.0.112.0/21",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
       "ip_prefix": "150.222.3.202/31",
       "region": "ap-southeast-1",
       "service": "AMAZON",
@@ -18985,6 +18991,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "96.0.94.0/23",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
       "ip_prefix": "3.5.244.0/22",
       "region": "eu-west-2",
       "service": "AMAZON",
@@ -20225,6 +20237,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1-phl-1"
+    },
+    {
+      "ip_prefix": "96.0.108.0/24",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1"
     },
     {
       "ip_prefix": "150.222.8.242/31",
@@ -29593,6 +29611,12 @@
       "network_border_group": "ap-southeast-2-akl-1"
     },
     {
+      "ip_prefix": "96.0.112.0/21",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
       "ip_prefix": "54.172.0.0/15",
       "region": "us-east-1",
       "service": "EC2",
@@ -30733,6 +30757,12 @@
       "network_border_group": "us-west-2"
     },
     {
+      "ip_prefix": "96.0.94.0/23",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1"
+    },
+    {
       "ip_prefix": "3.5.244.0/22",
       "region": "eu-west-2",
       "service": "EC2",
@@ -31043,6 +31073,12 @@
       "region": "us-east-1",
       "service": "EC2",
       "network_border_group": "us-east-1-phl-1"
+    },
+    {
+      "ip_prefix": "96.0.108.0/24",
+      "region": "ap-southeast-1",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-1"
     },
     {
       "ip_prefix": "18.88.128.0/18",
