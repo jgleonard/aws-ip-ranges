@@ -20851,6 +20851,12 @@
       "network_border_group": "GLOBAL"
     },
     {
+      "ip_prefix": "3.33.41.0/24",
+      "region": "ap-southeast-2",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
       "ip_prefix": "3.80.0.0/12",
       "region": "us-east-1",
       "service": "AMAZON",
@@ -32299,6 +32305,12 @@
       "network_border_group": "us-east-1-dfw-1"
     },
     {
+      "ip_prefix": "3.33.41.0/24",
+      "region": "ap-southeast-2",
+      "service": "EC2",
+      "network_border_group": "ap-southeast-2"
+    },
+    {
       "ip_prefix": "3.80.0.0/12",
       "region": "us-east-1",
       "service": "EC2",
@@ -38420,6 +38432,12 @@
     },
     {
       "ip_prefix": "16.50.182.0/25",
+      "region": "ap-southeast-4",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-4"
+    },
+    {
+      "ip_prefix": "16.50.206.0/25",
       "region": "ap-southeast-4",
       "service": "AMAZON",
       "network_border_group": "ap-southeast-4"
@@ -45117,6 +45135,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ipv6_prefix": "2404:c2c0:c000::/36",
+      "region": "cn-northwest-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ipv6_prefix": "2600:1f01:4810::/47",
       "region": "eu-west-3",
       "service": "AMAZON",
@@ -47605,6 +47629,12 @@
       "region": "us-east-1",
       "service": "AMAZON",
       "network_border_group": "us-east-1"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:c000::/36",
+      "region": "cn-north-1",
+      "service": "AMAZON",
+      "network_border_group": "cn-north-1"
     },
     {
       "ipv6_prefix": "2406:da23::/36",
@@ -51285,6 +51315,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ipv6_prefix": "2404:c2c0:c000::/36",
+      "region": "cn-northwest-1",
+      "service": "EC2",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ipv6_prefix": "2a05:d07f:5000::/40",
       "region": "il-central-1",
       "service": "EC2",
@@ -52873,6 +52909,12 @@
       "region": "us-east-2",
       "service": "EC2",
       "network_border_group": "us-east-2"
+    },
+    {
+      "ipv6_prefix": "2400:7fc0:c000::/36",
+      "region": "cn-north-1",
+      "service": "EC2",
+      "network_border_group": "cn-north-1"
     },
     {
       "ipv6_prefix": "2406:da23::/36",
