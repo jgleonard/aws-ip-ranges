@@ -38935,6 +38935,18 @@
       "network_border_group": "ap-southeast-4"
     },
     {
+      "ip_prefix": "15.156.152.184/29",
+      "region": "ca-central-1",
+      "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "ca-central-1"
+    },
+    {
+      "ip_prefix": "15.156.152.192/29",
+      "region": "ca-central-1",
+      "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "ca-central-1"
+    },
+    {
       "ip_prefix": "15.156.212.0/22",
       "region": "ca-central-1",
       "service": "AMAZON",
