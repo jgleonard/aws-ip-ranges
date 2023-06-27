@@ -35629,6 +35629,12 @@
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ip_prefix": "43.192.144.0/22",
+      "region": "cn-northwest-1",
+      "service": "WORKSPACES_GATEWAYS",
+      "network_border_group": "cn-northwest-1"
+    },
+    {
       "ip_prefix": "43.192.156.0/23",
       "region": "cn-northwest-1",
       "service": "AMAZON",
