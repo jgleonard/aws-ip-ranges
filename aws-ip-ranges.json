@@ -39133,6 +39133,12 @@
       "network_border_group": "eu-west-1"
     },
     {
+      "ip_prefix": "3.254.8.0/25",
+      "region": "eu-west-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-west-1"
+    },
+    {
       "ip_prefix": "34.242.153.128/26",
       "region": "eu-west-1",
       "service": "ROUTE53_RESOLVER",
