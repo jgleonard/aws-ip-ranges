@@ -20929,6 +20929,12 @@
       "network_border_group": "ap-northeast-2"
     },
     {
+      "ip_prefix": "3.4.32.0/20",
+      "region": "GLOBAL",
+      "service": "AMAZON",
+      "network_border_group": "GLOBAL"
+    },
+    {
       "ip_prefix": "13.34.75.160/27",
       "region": "us-east-1",
       "service": "AMAZON",
@@ -32288,6 +32294,12 @@
     },
     {
       "ip_prefix": "205.251.192.0/21",
+      "region": "GLOBAL",
+      "service": "ROUTE53",
+      "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "3.4.32.0/20",
       "region": "GLOBAL",
       "service": "ROUTE53",
       "network_border_group": "GLOBAL"
