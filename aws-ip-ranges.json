@@ -24307,6 +24307,12 @@
       "network_border_group": "eu-west-2"
     },
     {
+      "ip_prefix": "54.222.100.0/22",
+      "region": "cn-north-1",
+      "service": "S3",
+      "network_border_group": "cn-north-1"
+    },
+    {
       "ip_prefix": "18.34.72.0/21",
       "region": "us-east-2",
       "service": "S3",
@@ -42148,6 +42154,12 @@
       "ip_prefix": "44.216.41.160/29",
       "region": "us-east-1",
       "service": "MEDIA_PACKAGE_V2",
+      "network_border_group": "us-east-1"
+    },
+    {
+      "ip_prefix": "44.218.96.0/23",
+      "region": "us-east-1",
+      "service": "API_GATEWAY",
       "network_border_group": "us-east-1"
     },
     {
