@@ -421,12 +421,6 @@
       "network_border_group": "us-west-1"
     },
     {
-      "ip_prefix": "216.221.160.0/19",
-      "region": "GLOBAL",
-      "service": "AMAZON",
-      "network_border_group": "GLOBAL"
-    },
-    {
       "ip_prefix": "13.34.71.0/27",
       "region": "ap-northeast-2",
       "service": "AMAZON",
@@ -28421,12 +28415,6 @@
       "region": "ap-southeast-2",
       "service": "EC2",
       "network_border_group": "ap-southeast-2-akl-1"
-    },
-    {
-      "ip_prefix": "216.221.160.0/19",
-      "region": "GLOBAL",
-      "service": "EC2",
-      "network_border_group": "GLOBAL"
     },
     {
       "ip_prefix": "52.4.0.0/14",
