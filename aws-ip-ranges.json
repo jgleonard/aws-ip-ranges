@@ -10717,6 +10717,12 @@
       "network_border_group": "eu-south-1"
     },
     {
+      "ip_prefix": "83.119.128.0/18",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "99.78.212.0/22",
       "region": "ap-southeast-2",
       "service": "AMAZON",
@@ -41539,6 +41545,12 @@
       "network_border_group": "us-west-2-lax-1"
     },
     {
+      "ip_prefix": "83.119.128.0/18",
+      "region": "eu-central-1",
+      "service": "EC2",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ip_prefix": "3.5.48.0/22",
       "region": "me-central-1",
       "service": "EC2",
@@ -58269,6 +58281,12 @@
       "network_border_group": "eu-west-3"
     },
     {
+      "ipv6_prefix": "2a05:d02b::/36",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ipv6_prefix": "2a05:d075:2000::/40",
       "region": "eu-west-3",
       "service": "AMAZON",
@@ -59251,6 +59269,12 @@
       "region": "us-west-2",
       "service": "AMAZON",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ipv6_prefix": "2a05:d01b::/36",
+      "region": "eu-central-1",
+      "service": "AMAZON",
+      "network_border_group": "eu-central-1"
     },
     {
       "ipv6_prefix": "2406:da18::/36",
@@ -67071,6 +67095,12 @@
       "network_border_group": "cn-northwest-1"
     },
     {
+      "ipv6_prefix": "2a05:d02b::/36",
+      "region": "eu-central-1",
+      "service": "EC2",
+      "network_border_group": "eu-central-1"
+    },
+    {
       "ipv6_prefix": "2a05:d075:2000::/40",
       "region": "eu-west-3",
       "service": "EC2",
@@ -67651,6 +67681,12 @@
       "region": "cn-northwest-1",
       "service": "EC2",
       "network_border_group": "cn-northwest-1"
+    },
+    {
+      "ipv6_prefix": "2a05:d01b::/36",
+      "region": "eu-central-1",
+      "service": "EC2",
+      "network_border_group": "eu-central-1"
     },
     {
       "ipv6_prefix": "2406:da18::/36",
