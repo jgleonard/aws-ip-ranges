@@ -55155,6 +55155,12 @@
       "network_border_group": "eu-west-3"
     },
     {
+      "ipv6_prefix": "2400:6500:0:3::/64",
+      "region": "ap-east-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-east-1"
+    },
+    {
       "ipv6_prefix": "2400:6500:0:7d00::/56",
       "region": "ap-southeast-7",
       "service": "AMAZON",
