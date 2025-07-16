@@ -62583,6 +62583,12 @@
       "network_border_group": "us-gov-west-1"
     },
     {
+      "ipv6_prefix": "2600:f0f2:710b::/48",
+      "region": "af-south-1",
+      "service": "AMAZON",
+      "network_border_group": "af-south-1"
+    },
+    {
       "ipv6_prefix": "2606:f40:2400::/40",
       "region": "ap-northeast-2",
       "service": "AMAZON",
@@ -76569,6 +76575,12 @@
       "network_border_group": "us-gov-west-1"
     },
     {
+      "ipv6_prefix": "2600:f0f2:710b::/48",
+      "region": "af-south-1",
+      "service": "EC2",
+      "network_border_group": "af-south-1"
+    },
+    {
       "ipv6_prefix": "2606:f40:2400::/40",
       "region": "ap-northeast-2",
       "service": "EC2",
@@ -79441,6 +79453,12 @@
       "region": "us-west-2",
       "service": "AMAZON_CONNECT",
       "network_border_group": "us-west-2"
+    },
+    {
+      "ipv6_prefix": "2600:f0f2:710b::/48",
+      "region": "af-south-1",
+      "service": "AMAZON_CONNECT",
+      "network_border_group": "af-south-1"
     },
     {
       "ipv6_prefix": "2600:f0f2:7107::/48",
