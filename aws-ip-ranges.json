@@ -6025,6 +6025,12 @@
       "network_border_group": "ap-southeast-1"
     },
     {
+      "ip_prefix": "16.12.120.0/22",
+      "region": "sa-west-1",
+      "service": "AMAZON",
+      "network_border_group": "sa-west-1"
+    },
+    {
       "ip_prefix": "18.97.64.0/20",
       "region": "ap-southeast-5",
       "service": "AMAZON",
@@ -15745,6 +15751,12 @@
       "network_border_group": "eu-west-3"
     },
     {
+      "ip_prefix": "16.15.24.0/22",
+      "region": "sa-west-1",
+      "service": "AMAZON",
+      "network_border_group": "sa-west-1"
+    },
+    {
       "ip_prefix": "18.154.0.0/15",
       "region": "GLOBAL",
       "service": "AMAZON",
@@ -22969,6 +22981,12 @@
       "network_border_group": "us-west-2"
     },
     {
+      "ip_prefix": "35.96.56.0/24",
+      "region": "us-west-2",
+      "service": "AMAZON",
+      "network_border_group": "us-west-2"
+    },
+    {
       "ip_prefix": "52.46.192.0/20",
       "region": "eu-north-1",
       "service": "AMAZON",
@@ -23147,6 +23165,12 @@
       "region": "us-west-1",
       "service": "AMAZON",
       "network_border_group": "us-west-1"
+    },
+    {
+      "ip_prefix": "40.168.224.0/28",
+      "region": "ap-southeast-1",
+      "service": "AMAZON",
+      "network_border_group": "ap-southeast-1"
     },
     {
       "ip_prefix": "52.93.33.9/32",
@@ -33097,6 +33121,12 @@
       "network_border_group": "ap-southeast-5"
     },
     {
+      "ip_prefix": "16.12.120.0/22",
+      "region": "sa-west-1",
+      "service": "S3",
+      "network_border_group": "sa-west-1"
+    },
+    {
       "ip_prefix": "52.95.169.0/24",
       "region": "eu-north-1",
       "service": "S3",
@@ -33599,6 +33629,12 @@
       "region": "GLOBAL",
       "service": "S3",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "16.15.24.0/22",
+      "region": "sa-west-1",
+      "service": "S3",
+      "network_border_group": "sa-west-1"
     },
     {
       "ip_prefix": "52.219.160.0/23",
@@ -41107,6 +41143,12 @@
       "network_border_group": "eu-west-3"
     },
     {
+      "ip_prefix": "16.15.24.0/22",
+      "region": "sa-west-1",
+      "service": "EC2",
+      "network_border_group": "sa-west-1"
+    },
+    {
       "ip_prefix": "64.252.84.0/24",
       "region": "eu-west-2",
       "service": "EC2",
@@ -43478,6 +43520,12 @@
     },
     {
       "ip_prefix": "35.96.10.0/24",
+      "region": "us-west-2",
+      "service": "EC2",
+      "network_border_group": "us-west-2"
+    },
+    {
+      "ip_prefix": "35.96.56.0/24",
       "region": "us-west-2",
       "service": "EC2",
       "network_border_group": "us-west-2"
