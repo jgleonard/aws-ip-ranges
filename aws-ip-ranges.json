@@ -1711,12 +1711,6 @@
       "network_border_group": "us-east-1-bue-1"
     },
     {
-      "ip_prefix": "15.230.4.16/32",
-      "region": "ap-southeast-3",
-      "service": "AMAZON",
-      "network_border_group": "ap-southeast-3"
-    },
-    {
       "ip_prefix": "15.230.39.254/31",
       "region": "us-east-2",
       "service": "AMAZON",
@@ -9565,6 +9559,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "35.97.176.0/20",
+      "region": "sa-east-1",
+      "service": "AMAZON",
+      "network_border_group": "sa-east-1"
+    },
+    {
       "ip_prefix": "51.21.0.0/16",
       "region": "eu-north-1",
       "service": "AMAZON",
@@ -13571,6 +13571,12 @@
       "region": "me-west-1",
       "service": "AMAZON",
       "network_border_group": "me-west-1"
+    },
+    {
+      "ip_prefix": "15.248.164.0/24",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
     },
     {
       "ip_prefix": "15.251.0.33/32",
@@ -19628,9 +19634,9 @@
     },
     {
       "ip_prefix": "1.178.86.0/23",
-      "region": "us-east-1",
+      "region": "us-east-2",
       "service": "AMAZON",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "3.4.15.32/29",
@@ -45176,9 +45182,9 @@
     },
     {
       "ip_prefix": "1.178.86.0/23",
-      "region": "us-east-1",
+      "region": "us-east-2",
       "service": "EC2",
-      "network_border_group": "us-east-1"
+      "network_border_group": "us-east-2"
     },
     {
       "ip_prefix": "3.5.212.0/23",
@@ -63313,6 +63319,12 @@
       "region": "ca-central-1",
       "service": "AMAZON",
       "network_border_group": "ca-central-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f0:cfb::/48",
+      "region": "us-east-2",
+      "service": "AMAZON",
+      "network_border_group": "us-east-2"
     },
     {
       "ipv6_prefix": "2600:f0f0:553f::/48",
@@ -81877,6 +81889,12 @@
       "region": "ca-central-1",
       "service": "EC2",
       "network_border_group": "ca-central-1"
+    },
+    {
+      "ipv6_prefix": "2600:f0f0:cfb::/48",
+      "region": "us-east-2",
+      "service": "EC2",
+      "network_border_group": "us-east-2"
     },
     {
       "ipv6_prefix": "2600:f0f0:553f::/48",
