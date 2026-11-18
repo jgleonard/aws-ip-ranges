@@ -14029,6 +14029,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "40.163.4.0/24",
+      "region": "us-east-1",
+      "service": "AMAZON",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "52.93.126.131/32",
       "region": "ap-southeast-2",
       "service": "AMAZON",
@@ -28187,12 +28193,6 @@
       "region": "us-east-2",
       "service": "AMAZON",
       "network_border_group": "us-east-2"
-    },
-    {
-      "ip_prefix": "72.150.21.0/24",
-      "region": "GLOBAL",
-      "service": "AMAZON",
-      "network_border_group": "GLOBAL"
     },
     {
       "ip_prefix": "150.222.36.192/26",
@@ -45985,6 +45985,12 @@
       "network_border_group": "us-east-1"
     },
     {
+      "ip_prefix": "40.163.4.0/24",
+      "region": "us-east-1",
+      "service": "EC2",
+      "network_border_group": "us-east-1"
+    },
+    {
       "ip_prefix": "52.95.245.0/24",
       "region": "us-east-1",
       "service": "EC2",
@@ -50821,12 +50827,6 @@
       "network_border_group": "us-east-2"
     },
     {
-      "ip_prefix": "72.150.21.0/24",
-      "region": "GLOBAL",
-      "service": "EC2",
-      "network_border_group": "GLOBAL"
-    },
-    {
       "ip_prefix": "99.77.55.56/32",
       "region": "eu-south-2",
       "service": "EC2",
@@ -55337,6 +55337,24 @@
       "region": "GLOBAL",
       "service": "CLOUDFRONT_ORIGIN_FACING",
       "network_border_group": "GLOBAL"
+    },
+    {
+      "ip_prefix": "51.72.40.128/28",
+      "region": "eusc-de-east-1",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "eusc-de-east-1"
+    },
+    {
+      "ip_prefix": "51.72.40.144/28",
+      "region": "eusc-de-east-1",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "eusc-de-east-1"
+    },
+    {
+      "ip_prefix": "51.72.96.0/23",
+      "region": "eusc-de-east-1",
+      "service": "CLOUDFRONT_ORIGIN_FACING",
+      "network_border_group": "eusc-de-east-1"
     },
     {
       "ip_prefix": "13.124.199.0/24",
